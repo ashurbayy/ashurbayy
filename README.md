@@ -6,7 +6,7 @@ I build software that brings data, interactive visualization, and practical work
 
 ## Selected projects
 
-### NeuroTwin-IR
+### [NeuroTwin-IR](https://github.com/ashurbayy/neurotwin-ir-showcase)
 
 A research-stage brain MRI platform developed for TEKNOFEST 2026. The project connects MRI upload, tumor segmentation review, 3D visualization, scenario exploration, and structured PDF reporting in one workspace.
 
